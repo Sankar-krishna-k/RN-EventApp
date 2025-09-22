@@ -1,0 +1,12 @@
+
+npx react-native run-android
+
+npx @react-native-community/cli start
+
+
+
+>>npx @react-native-community/cli@latest init EventPlannerApp --template https://github.com/react-native-community/react-native-template-typescript.git
+>> cd EventPlannerApp
+>> npm install
+
+npm run dev
